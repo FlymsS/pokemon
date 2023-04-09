@@ -42,6 +42,6 @@ export const Layout: FC<PropsWithChildren<Props>> = ({ children, title }) => {
       >
         {children}
       </main>
-    </>
+    </> 
   );
 };
